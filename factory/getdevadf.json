@@ -1,0 +1,15 @@
+{
+	"name": "getdevadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2704ca3-9750-4b9f-815f-6bda67f46daa",
+		"tenantId": "3e0e3f8a-ceac-46ae-a20d-1e60b125d2d1"
+	}
+}
